@@ -1,0 +1,5 @@
+WhitelistedHWIDs ={
+    {"F82666E4223E7A88719ACE4CA4AE4AB0F0AE", 'w'},
+    {"F82666E4213E7A88719ACE4CA4AE4AB0F0AE", 'w'}, ---U is For Load, B Is for Blacklist
+         
+}
